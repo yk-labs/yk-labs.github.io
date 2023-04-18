@@ -41,7 +41,7 @@ Yazılım geliştirme uzmanlığı, siber güvenlik, web tasarım,mobil uygulama
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Şuan çalıştığım proje [Github Profilinator](https://github.com/yk-labs/robotics)  
+- 🔭 Şuan çalıştığım proje [Github Robotics](https://github.com/yk-labs/robotics)  
   
 
 - 🌱 Şu anda C++, PHP ve cloud öğreniyorum  
