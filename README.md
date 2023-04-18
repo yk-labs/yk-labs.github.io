@@ -120,7 +120,7 @@ Yazılım geliştirme uzmanlığı, siber güvenlik, web tasarım,mobil uygulama
 
 
 ## Github İstatistikleri  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yk-labs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
