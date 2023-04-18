@@ -44,7 +44,10 @@ Yazılım geliştirme uzmanlığı, siber güvenlik, web tasarım,mobil uygulama
 🔭 Şuan çalıştığım proje  [Github Robotics](https://github.com/yk-labs/robotics)  
   
 
-🌱Şu anda C++, PHP ve cloud öğreniyorum  
+🌱 Şu anda C++, PHP ve cloud öğreniyorum  
+  
+  
+ 🛠 Arduino ile sayısız proje geliştiriyorum
   
 
 ⚡ Çoğu zaman buradayım :)  
