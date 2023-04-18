@@ -1,1 +1,1 @@
-## Merhaba 👋 Ben Yusuf KORKMAZ!
+## Merhaba 👋
