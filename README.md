@@ -41,16 +41,13 @@ Yazılım geliştirme uzmanlığı, siber güvenlik, web tasarım,mobil uygulama
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 Şuan çalıştığım proje [Github Profilinator](https://github.com/yk-labs/robotics)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🌱 Şu anda C++, PHP ve cloud öğreniyorum  
+    
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Çoğu zaman buradayım...   
 
 
 </td><td valign="top" width="50%">
